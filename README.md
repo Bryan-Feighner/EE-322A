@@ -10,4 +10,4 @@ Another
 ```
 I can **Bold** or *italicize* text with ease
 ---
-!(smile.gif)
+!(/Users/bnfle/EE-322A/smile.gif)
