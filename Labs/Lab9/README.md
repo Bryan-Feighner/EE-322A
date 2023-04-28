@@ -653,4 +653,5 @@ is only available from another source
 E: Package 'pinta' has no installation candidate
 ```
 As you can see here, the pinta package was not installing properly on my machine.
+# GIMP Image output
 ![GIMP Image](GIMP.png)
